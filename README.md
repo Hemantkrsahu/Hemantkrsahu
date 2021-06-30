@@ -1,4 +1,5 @@
-![hkcrop](https://user-images.githubusercontent.com/86516273/123938053-6498ac80-d9b4-11eb-8fa3-25d8a8126e00.jpeg)
+![hkcropp](https://user-images.githubusercontent.com/86516273/123942240-9449b380-d9b8-11eb-87d6-a7f2407def85.jpeg)
+
 <h1 align="center">Hi 👋, I'm Hemant Kumar Sahu</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills.Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.</h3>
 
